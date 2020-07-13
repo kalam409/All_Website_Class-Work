@@ -1,0 +1,11 @@
+.card-header{
+	height:100px;
+}
+.card-img{
+	height:150px;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #CBCBCB;
+    border-color: #6c757d;
+}
